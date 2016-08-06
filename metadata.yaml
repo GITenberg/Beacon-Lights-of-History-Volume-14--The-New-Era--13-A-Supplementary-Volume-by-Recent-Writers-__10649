@@ -1,0 +1,26 @@
+_repo: Beacon-Lights-of-History-Volume-14--The-New-Era--13-A-Supplementary-Volume-by-Recent-Writers-__10649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lord, John
+    birthdate: 1810
+    deathdate: 1894
+    gutenberg_agent_id: '653'
+    url: http://www.gutenberg.org/2009/agents/653
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'D'
+- GITenberg
+title: "Beacon Lights of History, Volume 14: The New Era\r\nA Supplementary Volume,\
+  \ by Recent Writers, as Set Forth in the Preface and Table of Contents"
+url: http://www.gutenberg.org/ebooks/10649
